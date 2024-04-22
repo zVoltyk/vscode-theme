@@ -1,0 +1,31 @@
+{
+  "name": "eclipse",
+  "displayName": "eclipse",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eclipse-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/a3874ab1081937391b7a5a909850b09c.jpg",
+  "author": {
+    "name": "Benjamin Luengo",
+    "email": "zvoltyk@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/zvoltyk/vscode-theme.git",
+    "type": "git"
+  },
+  "publisher": "zvoltyk"
+}
