@@ -1,6 +1,6 @@
 {
-  "name": "eclipse",
-  "displayName": "eclipse",
+  "name": "empyrean",
+  "displayName": "empyrean",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Eclipse",
+        "label": "empyrean",
         "uiTheme": "vs-dark",
-        "path": "./themes/Eclipse-color-theme.json"
+        "path": "./themes/Empyrean-color-theme.json"
       }
     ]
   },

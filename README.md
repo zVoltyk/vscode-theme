@@ -1,6 +1,6 @@
-# Eclipse README
+# Empyrean README
 
-## Eclipse from Tokyo Night
+## Empyrean from Tokyo Night
 
 This is my own version of the modified Tokyo Night theme by huanamigo
 
