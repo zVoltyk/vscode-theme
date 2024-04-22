@@ -1,16 +1,14 @@
-# eclipse README
+# Eclipse README
 
-## Working with Markdown
+## Eclipse from Tokyo Night
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is my own version of the modified Tokyo Night theme by huanamigo
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## For more info check my media:
 
-## For more information
+- Email: zvoltyk@gmail.com
+- GitHub: [zvoltyk](https://github.com/zvoltyk)
+- Twitter: [zvoltyk](https://twitter.com/zvoltyk)
+- Instagram: [hiitsvoltyk](https://www.instagram.com/hiitsvoltyk)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Hope you enjoy my theme! ^^**
