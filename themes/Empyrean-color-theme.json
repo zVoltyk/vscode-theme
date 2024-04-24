@@ -1,8 +1,37 @@
 {
 	"name": "Empyrean",
+	"author": "Voltyk, Enkia, kito0, huanamigo",
+    "maintainers": ["Voltyk <zvoltyk@gmail.com>, Enkia <enki77@gmail.com>, kito0 <drewshah0@gmail.com>, huanamigo"],
+	"type": "dark",
+
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"selection.background": "#515c7e40",
+		"editor.background": "#0a0a0d",
+		"editor.foreground": "#a9b1d6",
+		"editor.foldBackground": "#1111174a",
+		"editorLink.activeForeground": "#acb0d0",
+
+		"editor.selectionBackground": "#515c7e40",
+
+		//Brackets Colorization
+        "editorBracketHighlight.foreground1": "#ffe057", //"#7AA2F7",
+        "editorBracketHighlight.foreground2": "#BB9AF7", //"#7DCFFF",
+        "editorBracketHighlight.foreground3": "#7AA2F7", //"#BB9AF7",
+        "editorBracketHighlight.foreground4": "#6ddddd", //"#2AC3DE",
+        "editorBracketHighlight.foreground5": "#9ECE6A", //"#9ECE6A",
+        "editorBracketHighlight.foreground6": "#e09868", //"#e0af68",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#db4b4b",
+
+        "editorBracketPairGuide.activeBackground1": "#ffe057",
+        "editorBracketPairGuide.activeBackground2": "#BB9AF7",
+        "editorBracketPairGuide.activeBackground3": "#7AA2F7",
+        "editorBracketPairGuide.activeBackground4": "#6ddddd",
+        "editorBracketPairGuide.activeBackground5": "#9ECE6A",
+        "editorBracketPairGuide.activeBackground6": "#e09868",
+
+        "editorBracketMatch.background": "#08080b",
+        "editorBracketMatch.border": "#42465d", //"#363b54",
+
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
