@@ -16,4 +16,5 @@ This is my own version of the modified Tokyo Night theme by huanamigo
 ## Original Themes
 
 https://github.com/enkia/tokyo-night-vscode-theme <br>
-https://marketplace.visualstudio.com/items?itemName=drewxs.tokyo-night-dark
+https://marketplace.visualstudio.com/items?itemName=drewxs.tokyo-night-dark <br>
+https://marketplace.visualstudio.com/items?itemName=huanamigo.tokyo-night-ultra
