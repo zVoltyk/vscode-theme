@@ -2,9 +2,9 @@
   "name": "empyrean",
   "displayName": "Empyrean",
   "description": "",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.88.1"
   },
   "categories": [
     "Themes"
