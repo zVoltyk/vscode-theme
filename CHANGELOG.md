@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [1.1.0] - 2024-04-25
+
+- Minor bugs fix
+
 ## [1.0.0] - 2024-04-25
 
 - Full Version Release!!
