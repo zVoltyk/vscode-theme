@@ -1009,7 +1009,7 @@
 		},
         {
             "name": "Meta Format Brace",
-            "scope": "meta.format.brace.python",
+            "scope": "constant.character.format.placeholder.other.python",
             "settings": {
                 "foreground": "#F78C6C",
             }
