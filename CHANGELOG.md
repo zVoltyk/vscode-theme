@@ -6,9 +6,23 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [1.1.2] - 2024-04-28
+
+- Color fixes to some tokens
+- Changed "Meta Format Brace" token name to "Constant Character"
+- Added a new token to "Constant Character"
+  - constant.character.escape.python
+- Added a new token name "Constant Language" and token to "Constant Language"
+  - constant.language.python
+- Added a new token to "F-String"
+  - meta.function-call.generic.python
+- Changed "icons" folder name to "images"
+- Update 1.1.1 log from "Meta Format Brace" to "Constant Character"
+- Update package.json file
+
 ## [1.1.1] - 2024-04-25
 
-- "Meta Format Brace" Color Fix
+- "Constant Character" Color Fix
 
 ## [1.1.0] - 2024-04-25
 

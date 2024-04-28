@@ -1,8 +1,10 @@
 {
   "name": "empyrean",
   "displayName": "Empyrean",
-  "description": "",
-  "version": "1.1.1",
+  "description": "Minimalistic eye catchy theme based on Tokyo Night Ultra",
+  "icon": "images/a3874ab1081937391b7a5a909850b09c.jpg",
+  "version": "1.1.2",
+  "publisher": "zvoltyk",
   "engines": {
     "vscode": "^1.88.1"
   },
@@ -18,14 +20,25 @@
       }
     ]
   },
-  "icon": "icons/a3874ab1081937391b7a5a909850b09c.jpg",
+	"keywords": [
+		"empyrean",
+		"voltyk",
+		"zvoltyk",
+		"dark",
+		"tokyo night",
+		"tokyo",
+		"night",
+		"theme"
+	],
   "author": {
     "name": "Benjamin Luengo",
     "email": "zvoltyk@gmail.com"
   },
+	"maintainers": [
+		"Benjamin <Vøltyk> Luengo <zvoltyk@gmail.com>"
+	],
   "repository": {
     "url": "https://github.com/zvoltyk/vscode-theme.git",
     "type": "git"
-  },
-  "publisher": "zvoltyk"
+  }
 }
