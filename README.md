@@ -15,6 +15,11 @@ This is my own version of the modified Tokyo Night theme by huanamigo
 
 ## ScreenShots
 
+![Empyrean Python Test](https://github.com/zvoltyk/vscode-theme/blob/main/images/python2.png?raw=true)
+![Empyrean Python Example](https://github.com/zvoltyk/vscode-theme/blob/main/images/python1.png?raw=true)
+![Empyrean HTML 1](https://github.com/zvoltyk/vscode-theme/blob/main/images/html1.png?raw=true)
+![Empyrean HTML 2](https://github.com/zvoltyk/vscode-theme/blob/main/images/html2.png?raw=true)
+
 ## Original Themes
 
 https://github.com/enkia/tokyo-night-vscode-theme <br>

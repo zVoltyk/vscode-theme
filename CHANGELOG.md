@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [1.1.4] - 2024-04-28
+
+- Added ScreenShots to the "images" folder
+- Updated README file with ScreenShots
+
 ## [1.1.3] - 2024-04-28
 
 - Create own token name to:
