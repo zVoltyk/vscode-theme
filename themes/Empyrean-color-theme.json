@@ -633,7 +633,6 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"meta.function-call entity.name.function",
 				"variable.function",
 				"keyword.other.special-method",
@@ -1049,12 +1048,21 @@
 			"name": "F-String",
 			"scope": [
                 "storage.type.string.python",
-                "meta.function-call.generic.python"
+                "meta.member.access.python meta.function-call.generic.python"
             ],
 			"settings": {
 				"foreground": "#BB9AF7",
 			}
 		},
+        {
+            "name": "Meta Function Call Generic Python",
+            "scope": [
+                "meta.function-call.generic.python",
+            ],
+            "settings": {
+                "foreground": "#82AAFF",
+            }
+        },
 		{
 			"name": "Python Variable",
 			"scope": "source.python",

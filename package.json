@@ -3,7 +3,7 @@
   "displayName": "Empyrean",
   "description": "Minimalistic eye catchy theme based on Tokyo Night Ultra",
   "icon": "images/a3874ab1081937391b7a5a909850b09c.jpg",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "publisher": "zvoltyk",
   "engines": {
     "vscode": "^1.88.1"

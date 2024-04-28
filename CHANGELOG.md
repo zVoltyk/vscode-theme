@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [1.1.3] - 2024-04-28
+
+- Create own token name to:
+  - meta.function-call.generic.python
+  - Remove this token from "F-String"
+- Remove meta.function-call.generic.python from "F-String"
+  - Changed to meta.member.access.python meta.function-call.generic.python
+
 ## [1.1.2] - 2024-04-28
 
 - Color fixes to some tokens
