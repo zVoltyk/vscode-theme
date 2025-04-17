@@ -1,4 +1,4 @@
-# Empyrean README
+# README
 
 ## Empyrean from Tokyo Night
 
