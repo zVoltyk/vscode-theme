@@ -8,7 +8,6 @@ This is my own version of the modified Tokyo Night theme by huanamigo
 
 - Email: zvoltyk@gmail.com
 - GitHub: [zVoltyk](https://github.com/zVoltyk)
-- Instagram: [hiitsvoltyk](https://www.instagram.com/hiitsvoltyk)
 
 **Hope you enjoy my theme! (ɔ◔‿◔)ɔ**
 
